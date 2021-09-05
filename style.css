@@ -1,0 +1,25 @@
+.parent{
+background-color: rosybrown;
+height: 30px;
+position: relative;
+height: 200vh;
+}
+
+.first{
+    background-color: royalblue;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+}
+.second{
+    background-color: silver;
+    height: 30px;
+    position: absolute;
+    top: 40px;
+}
+.three{
+    background-color: rgb(170, 43, 64);
+    height: 30px;
+    position: absolute;
+    top: 70px;
+}<
